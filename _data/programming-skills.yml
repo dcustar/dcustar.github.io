@@ -1,11 +1,11 @@
-- name: SQL
-  percentage: 10
+- name: C+
+  percentage: 0
   color: danger
 
 - name: Python
   percentage: 10
   color:
 
-- name: Linux&Hadoop
-  percentage: 10
+- name: Linux
+  percentage: 50
   color: secondary
