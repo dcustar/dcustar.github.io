@@ -1,17 +1,11 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: "방구석 히키코모리"
+  from: 2004
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 방구석 인생 살이 어드덧 20년 오랜 시간 방구석에 있어도 그래도 나는 방구석이 좋아..
+
+- title: "대학교 입학"
+  from: 2023
+  to: present
+  description: DCU23학번 입학생입니다. 
+               지망했던 학과에 입학하여 개발자로 입사를 목표로하고 있다.
+               그치만 군대갈 생각에 점점 머리가 아파진다.
