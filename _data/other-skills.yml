@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: 주식
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: 게임
   percentage: 90
   color: success
+
+- name: 맛집 레이드
+  percentage: 90
+  color: 
