@@ -1,11 +1,11 @@
 - name: 주식
-  percentage: 95
+  percentage: 80
   color: info
 
 - name: 게임
-  percentage: 90
+  percentage: 100
   color: success
 
 - name: 맛집 레이드
-  percentage: 90
+  percentage: 0
   color: 
